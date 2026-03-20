@@ -7,9 +7,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full+Stack+Developer;MERN+Stack+Learner;Problem+Solver;Building+Cool+Projects🚀">
 </p>
 
----
 
-## 👨‍💻 About Me
+
+## <h1> 👨‍💻 About Me <h1/>
 
 ![🎓 Computer Science Student](https://img.shields.io/badge/🎓-Computer%20Science%20Student-blue?style=for-the-badge&logo=student&logoColor=white)
 ![💻 Web Development](https://img.shields.io/badge/💻-Web%20Development-red?style=for-the-badge&logo=webdev&logoColor=white)
@@ -28,7 +28,7 @@
   <a href="https://youtube.com/@atanu18"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"/></a>
 </p>
 
----
+
 
 ## 💻 Tech Stack
 
@@ -121,19 +121,15 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atanudas18&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Achievements"/>
-</p>
 
 ## 🔝 Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=atanudas18&limit=5&theme=tokyonight" alt="Top Repositories"/>
+  
 </p>
+<br>
+<br>
 
----
 
 ## ✍️ Dev Quote
 <p align="center">
@@ -141,6 +137,7 @@
 </p>
 
 ##  Profile Views
+<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atanudas18&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
