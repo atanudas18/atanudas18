@@ -1,6 +1,6 @@
 <!-- 🌊 Blinking Animated Header -->
 <h1 align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi+👋+I'm+Atanu+Das&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi+👋+I'm+Atanu&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
 </h1>
 <!-- 🔥 Typing Animation -->
 <p align="center">
