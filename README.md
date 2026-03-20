@@ -34,43 +34,43 @@
 
 ### 👨‍💻 Languages
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C">
+  <a >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++">
+  <a ">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" title="Java">
+  <a >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" title="Python">
+  <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript">
+  <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
   </a>
 </p>
 <b>🌐 Web Development</b>
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
+  <a >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
+  <a >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
   </a>
-  <a href="https://reactjs.org/" title="React">
+  <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
   </a>
-  <a href="https://nextjs.org/" title="Next.js">
+  <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60"/>
   </a>
-  <a href="https://nodejs.org/" title="Node.js">
+  <a >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
   </a>
-  <a href="https://expressjs.com/" title="Express.js">
+  <a >
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/express-js-icon.svg" width="60" height="60"/>
   </a>
-  <a href="https://www.mongodb.com/" title="MongoDB">
+  <a >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
   </a>
 </p>
