@@ -88,7 +88,7 @@
 </p>
 
 
-<h1 align="center">📊 Detailed Status Section</h1>
+<h1>📊 Detailed Status Section</h1>
 
 <!-- Profile Details Card -->
 <p align="center">
