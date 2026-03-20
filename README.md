@@ -1,9 +1,22 @@
-# 👋 Hi, I'm Atanu Das
-🎓 Computer Science Student  
-💡 Passionate about Web Development, Programming & Design  
-🚀 Building modern, responsive, and interactive projects  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Atanu+Das;Computer+Science+Student;Web+Developer;Tech+Enthusiast🚀" />
+</h1>
 
----
+## 👨‍💻 About Me
+
+<p align="center">
+ 
+</p>
+
+
+
+- 🔭 Currently working on **Web Development Projects**
+- 🌱 Learning **React, Node.js & Advanced Backend**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Programming & Web Tech**
+- ⚡ Fun fact: I love **design + coding combo**
+
+
 
 ## 🌐 Connect with Me
 <p align="center">
@@ -67,10 +80,9 @@
 
 ---
 
+
 ## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atanudas18&theme=radical&no-frame=true&margin-w=10"/>
-</p>
+![](https://github-profile-trophy.vercel.app/?username=atanudas18&theme=flat&no-frame=true)
 
 ---
 
@@ -82,9 +94,7 @@
 ---
 
 ## 🔝 Top Contributed Repositories
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=atanudas18&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
+![](https://github-contributor-stats.vercel.app/api?username=atanudas18&limit=5)
 
 ---
 
