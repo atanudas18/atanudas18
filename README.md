@@ -88,7 +88,37 @@
 </p>
 
 
----
+<h1 align="center">📊 Detailed Status Section</h1>
+
+<!-- Profile Details Card -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atanudas18&theme=radical"/>
+</p>
+
+<!-- Language & Commit Stats -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atanudas18&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atanudas18&theme=radical"/>
+</p>
+
+<!-- General Stats & Productive Time -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atanudas18&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atanudas18&theme=radical&utcOffset=5.5"/>
+</p>
+
+<hr>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ## 📈 Contribution Graph
 <p align="center">
