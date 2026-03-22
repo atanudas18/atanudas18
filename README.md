@@ -21,11 +21,11 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://facebook.com/atanudas"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/atanu055"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/atanudas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/atanudas18"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white"/></a>
-  <a href="https://youtube.com/@atanu18"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"/></a>
 </p>
 
 
