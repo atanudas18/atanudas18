@@ -19,6 +19,7 @@
 
 
 ## <h1> 👨‍💻 About Me <h1/>
+👋 Hi, I'm Atanu Das, a Computer Science & Engineering student passionate about Full-Stack Web Development (MERN), Data Structures & Algorithms, and Software Engineering. I enjoy building scalable web applications, solving coding problems, and continuously learning new technologies to become a better developer.
 
 ![🎓 Computer Science Student](https://img.shields.io/badge/🎓-Computer%20Science%20Student-blue?style=for-the-badge&logo=student&logoColor=white)
 ![💻 Web Development](https://img.shields.io/badge/💻-Web%20Development-red?style=for-the-badge&logo=webdev&logoColor=white)
