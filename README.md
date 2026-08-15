@@ -344,7 +344,7 @@ JavaScript  • Three.js• Google Fonts
 </p>
 
 <p>
-<a href=" https://solarplanet3d.vercel.app/ ">
+<a href="https://solarplanet3d.vercel.app/">
   <img
     src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-15803D?style=for-the-badge&logo=vercel&logoColor=white"
     alt="Live Demo"
