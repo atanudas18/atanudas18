@@ -364,6 +364,58 @@ JavaScript  • Three.js• Google Fonts
 
 <br>
 
+<table width="100%">
+<tr>
+
+<td width="30%" align="center">
+
+
+  <img width="663" height="596" alt="Screenshot 2026-08-15 124456" src="https://github.com/user-attachments/assets/2d60e419-9e30-4a5d-8609-23d080757226" />
+
+
+</td>
+
+<td width="70%" valign="top">
+
+<h3>⚛️ Periodic Table
+</h3>
+
+<p>
+Modern • Interactive • Responsive
+
+</p>
+
+<p>
+A beautifully designed interactive Periodic Table built with HTML, CSS and Vanilla JavaScript featuring a clean interface, responsive layout and smooth user experience.</p>
+
+<p>
+<b>🛠️ Tech Stack:</b>
+•	Vanilla JavaScript
+</p>
+
+<p>
+<a href="https://periodicguide.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-15803D?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Live Demo"
+  />
+</a>
+
+<a href="https://github.com/atanudas18/Solar-System ">
+  <img
+    src="https://img.shields.io/badge/💻%20Source%20Code-5865F2?style=for-the-badge&logo=github"
+  />
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+
 
 
 <!--This is acoming-soon animation-->
