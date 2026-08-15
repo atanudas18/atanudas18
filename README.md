@@ -244,7 +244,8 @@ React • Node.js • Express.js • MongoDB • Cloudinary
 <p>
 <a href="https://mylockdrop.vercel.app/">
   <img
-    src="https://img.shields.io/badge/🌐%20Live%20Demo-00F7FF?style=for-the-badge"
+    src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-15803D?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Live Demo"
   />
 </a>
 
