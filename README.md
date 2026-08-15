@@ -216,8 +216,8 @@
 <td width="30%" align="center">
 
 <img
-  src="YOUR_PROJECT_IMAGE_OR_GIF"
-  width="250"
+  <img width="712" height="565" alt="Screenshot 2026-08-15 112842" src="https://github.com/user-attachments/assets/97ebdd91-56f5-4857-be87-cda12e342b42" />
+
 />
 
 </td>
