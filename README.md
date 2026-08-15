@@ -218,8 +218,6 @@
 
   <img width="712" height="565" alt="Screenshot 2026-08-15 112842" src="https://github.com/user-attachments/assets/97ebdd91-56f5-4857-be87-cda12e342b42" />
 
-/>
-
 </td>
 
 <td width="70%" valign="top">
