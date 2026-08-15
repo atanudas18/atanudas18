@@ -263,6 +263,59 @@ React • Node.js • Express.js • MongoDB • Cloudinary
 
 <br>
 
+
+<table width="100%">
+<tr>
+
+<td width="30%" align="center">
+
+
+  <img width="1283" height="573" alt="Screenshot 2026-08-15 115153" src="https://github.com/user-attachments/assets/a2f98062-9a77-4015-b895-64f78a871d62" />
+
+
+
+</td>
+
+<td width="70%" valign="top">
+
+<h3>🎨 Colour Picker</h3>
+
+<p>
+Premium Modern Color Picker & Palette Generator
+
+</p>
+
+<p>
+Colour Picker is a premium web application designed for developers, designers, and creators. It provides an elegant interface to select, inspect, convert, and manage colors with real-time preview and one-click copy functionality.</p>
+
+<p>
+<b>🛠️ Tech Stack:</b>
+React  • Tailwind CSS • TypeScript • Vite
+</p>
+
+<p>
+<a href="https://colourpic.vercel.app/ ">
+  <img
+    src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-15803D?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Live Demo"
+  />
+</a>
+
+<a href="https://github.com/atanudas18/Colourpicker ">
+  <img
+    src="https://img.shields.io/badge/💻%20Source%20Code-5865F2?style=for-the-badge&logo=github"
+  />
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+
 <!--This is acoming-soon animation-->
 
 
