@@ -315,6 +315,56 @@ React  • Tailwind CSS • TypeScript • Vite
 
 <br>
 
+<table width="100%">
+<tr>
+
+<td width="30%" align="center">
+
+
+ <img width="1235" height="563" alt="Screenshot 2026-08-15 120355" src="https://github.com/user-attachments/assets/a558c041-0379-43de-9dc6-5279ddb0d514" />
+
+
+</td>
+
+<td width="70%" valign="top">
+
+<h3>🌌 Solar System</h3>
+
+<p>
+A Living Voyage Through Space
+
+</p>
+
+<p>
+An immersive interactive 3D Solar System built with Three.js, featuring realistic planetary motion, smooth camera controls, educational information, premium UI, and responsive design.</p>
+
+<p>
+<b>🛠️ Tech Stack:</b>
+JavaScript  • Three.js• Google Fonts 
+</p>
+
+<p>
+<a href=" https://solarplanet3d.vercel.app/ ">
+  <img
+    src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-15803D?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Live Demo"
+  />
+</a>
+
+<a href="https://github.com/atanudas18/Solar-System ">
+  <img src="https://img.shields.io/badge/💻%20Source%20Code-5865F2?style=for-the-badge&logo=github"
+  />
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+
 
 <!--This is acoming-soon animation-->
 
