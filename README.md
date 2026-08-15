@@ -242,13 +242,13 @@ React • Node.js • Express.js • MongoDB • Cloudinary
 </p>
 
 <p>
-<a href="YOUR_LIVE_LINK">
+<a href="https://mylockdrop.vercel.app/">
   <img
     src="https://img.shields.io/badge/🌐%20Live%20Demo-00F7FF?style=for-the-badge"
   />
 </a>
 
-<a href="YOUR_GITHUB_LINK">
+<a href="https://github.com/atanudas18/LockDrop">
   <img
     src="https://img.shields.io/badge/💻%20Source%20Code-5865F2?style=for-the-badge&logo=github"
   />
