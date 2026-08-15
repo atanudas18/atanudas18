@@ -203,8 +203,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atanudas18&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
+<br>
+<hr>
+<!--## 🏆 Projects text -->
 
-## 🏆 Projects
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; 🏆 Projects &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 
 
