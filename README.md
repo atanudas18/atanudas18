@@ -17,27 +17,60 @@
 
 
 
+<h2>🌟 About Me</h2>
+
 <table>
 <tr>
-<td>
 
-## 🌟 About Me
-- 🎓 I'm a Computer Science Engineering student
-- 💡 Passionate about Web Development & Problem Solving
-- 🌱 Currently learning **MERN Stack**
-- 🛠️ Interested in Open Source Contributions
-- 📚 Always exploring new technologies
-- ⚡ Fun fact: I love turning ideas into real-world projects!
+<td width="55%" valign="top">
+
+<h3>👨‍💻 Who Am I?</h3>
+
+<ul>
+  <li>🎓 Computer Science Engineering Student</li>
+  <li>💻 Passionate about Web Development &amp; Programming</li>
+  <li>🌱 Currently learning <b>MERN Stack</b></li>
+  <li>🧠 Interested in Problem Solving &amp; DSA</li>
+  <li>🛠️ Interested in Open Source Contributions</li>
+  <li>📚 Always exploring new technologies</li>
+  <li>🚀 Love building real-world projects</li>
+  <li>⚡ Fun fact: I love turning ideas into real-world projects!</li>
+</ul>
+
+<h3>🎯 Currently Focusing On</h3>
+
+<ul>
+  <li>🌐 Full Stack Web Development</li>
+  <li>⚛️ React &amp; Modern Frontend Development</li>
+  <li>🟢 Node.js &amp; Express.js</li>
+  <li>🍃 MongoDB</li>
+  <li>🧩 Data Structures &amp; Algorithms</li>
+</ul>
 
 </td>
 
-  <td>
- <p align="center">
-  <img  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="420"/>
-</p>
-  </td>
-  </tr>
-  </table>
+<td width="45%" align="center">
+
+<img
+  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+  width="420"
+/>
+
+<br><br>
+
+<img
+  src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=20&center=true&vCenter=true&width=400&lines=Code+%7C+Learn+%7C+Build+%7C+Repeat"
+  width="100%"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+<hr>
+
 
 
 ![🎓 Computer Science Student](https://img.shields.io/badge/🎓-Computer%20Science%20Student-blue?style=for-the-badge&logo=student&logoColor=white)
