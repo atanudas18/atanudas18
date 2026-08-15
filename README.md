@@ -206,9 +206,68 @@
 
 ## 🏆 Projects
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&center=true&vCenter=true&width=400&lines=⏳%20Coming%20Soon...">
+
+
+<!-- ================= PROJECT ================= -->
+
+<table width="100%">
+<tr>
+
+<td width="30%" align="center">
+
+<img
+  src="YOUR_PROJECT_IMAGE_OR_GIF"
+  width="250"
+/>
+
+</td>
+
+<td width="70%" valign="top">
+
+<h3>🔐 LockDrop</h3>
+
+<p>
+Secure File Sharing Without Accounts
 </p>
+
+<p>
+A secure file sharing platform where users can upload
+files and share them using password protection and
+automatic expiration.
+</p>
+
+<p>
+<b>🛠️ Tech Stack:</b>
+React • Node.js • Express.js • MongoDB • Cloudinary
+</p>
+
+<p>
+<a href="YOUR_LIVE_LINK">
+  <img
+    src="https://img.shields.io/badge/🌐%20Live%20Demo-00F7FF?style=for-the-badge"
+  />
+</a>
+
+<a href="YOUR_GITHUB_LINK">
+  <img
+    src="https://img.shields.io/badge/💻%20Source%20Code-5865F2?style=for-the-badge&logo=github"
+  />
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!--This is acoming-soon animation-->
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Next+Project+Coming+Soon..." />
+</p> 
 
 
 
