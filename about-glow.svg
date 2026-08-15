@@ -1,0 +1,79 @@
+<svg width="1200" height="500" viewBox="0 0 1200 500"
+xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="movingGlow"
+x1="0%"
+y1="0%"
+x2="100%"
+y2="0%">
+
+<stop offset="0%" stop-color="#00F7FF"/>
+<stop offset="20%" stop-color="#7A5CFF"/>
+<stop offset="40%" stop-color="#FF00E5"/>
+<stop offset="60%" stop-color="#00F7FF"/>
+<stop offset="80%" stop-color="#7A5CFF"/>
+<stop offset="100%" stop-color="#00F7FF"/>
+
+<animate
+attributeName="x1"
+values="0%;100%;0%"
+dur="5s"
+repeatCount="indefinite"/>
+
+<animate
+attributeName="x2"
+values="100%;200%;100%"
+dur="5s"
+repeatCount="indefinite"/>
+
+</linearGradient>
+
+<filter id="glow">
+
+<feGaussianBlur
+stdDeviation="7"
+result="blur"/>
+
+<feMerge>
+
+<feMergeNode in="blur"/>
+
+<feMergeNode in="SourceGraphic"/>
+
+</feMerge>
+
+</filter>
+
+</defs>
+
+<!-- Strong Outer Glow -->
+
+<rect
+x="8"
+y="8"
+width="1184"
+height="484"
+rx="30"
+fill="none"
+stroke="url(#movingGlow)"
+stroke-width="10"
+opacity="0.8"
+filter="url(#glow)"
+/>
+
+<!-- Main Moving Border -->
+
+<rect
+x="10"
+y="10"
+width="1180"
+height="480"
+rx="30"
+fill="#0d1117"
+stroke="url(#movingGlow)"
+stroke-width="3"
+/>
+
+</svg>
